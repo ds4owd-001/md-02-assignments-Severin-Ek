@@ -1,6 +1,6 @@
 ---
 title: "Data Visualisation"
-author: "Severin-Ek"
+author: "Sévérin-EKPE"
 format:
   html:
     embed-resources: true
